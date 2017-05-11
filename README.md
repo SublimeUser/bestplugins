@@ -15,18 +15,13 @@
 > Click Settings and paste -> **"theme": "Seti.sublime-theme"**
 
 > Example:
-
+```json
 {
-
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"font_size": 10,
-	"ignored_packages":
-	[
+	"ignored_packages": [
 		"Vintage"
 	],
 	"theme": "Seti.sublime-theme"
-
 }
-
-
-
+```
