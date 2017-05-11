@@ -1,27 +1,34 @@
 # The best plugins of the sublime text
+Getting Starting.
+
+### INSTALLATION
+Simple:
+
+The simplest method of installation is through the Sublime Text console. The console is accessed through **ctrl + `**
+or **View** > **Show Console**.
+
+![install](https://cloud.githubusercontent.com/assets/20023147/25965339/0d65778e-365e-11e7-974d-a98db2346ad7.jpg)
+ 
+ Once opened, paste the Python code below for your version of Sublime Text on the console.
+![console](https://cloud.githubusercontent.com/assets/20023147/25965322/fc1f8848-365d-11e7-92a6-411052d2b5c0.PNG)
+
+import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)
+
+
+This code creates the Packages folder that is installed for you.
+
+### Click for <a href="https://www.youtube.com/watch?v=zVLJfrIwEP8">To view</a>
+![video](https://cloud.githubusercontent.com/assets/20023147/25966156/92fc2a80-3660-11e7-8686-6f236711fe70.PNG)
+
+### Now
+
+#### Press **Ctrl + Shift + P** for install the plugins.
+
+
+## Plugin Number ONE: 
 
 * Seti_UI
 
 ![set_ui](https://cloud.githubusercontent.com/assets/20023147/25930577/658ff898-35dd-11e7-927b-231bdd8d7380.png)
 
 
-## Install
-
-### Via Package Control
-> Press -> **Ctrl + shift + p**
-
-> Select -> **Package Control: Intall Package** 
-
-> Click Settings and paste -> **"theme": "Seti.sublime-theme"**
-
-> Example:
-```json
-{
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
-	"font_size": 10,
-	"ignored_packages": [
-		"Vintage"
-	],
-	"theme": "Seti.sublime-theme"
-}
-```
