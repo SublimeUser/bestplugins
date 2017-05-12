@@ -1,4 +1,4 @@
-# The best plugins of the sublime text
+# The best plugins of the sublime text 3
 Getting Starting.
 
 ### INSTALLATION
