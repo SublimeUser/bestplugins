@@ -59,3 +59,70 @@ https://packagecontrol.io/packages/StyleToken
 
 # click here for information
 https://packagecontrol.io/packages/SideBarEnhancements
+
+
+## Plugin Number Four:
+
+*SFTP
+
+# click here for information
+https://wbond.net/sublime_packages/sftp/usage
+
+
+
+## Plugin Number Five:
+
+*Jquery
+
+#### Using snippets
+
+Snippets are used by typing the method name and selecting the appropriate match, see below for an example when using ajax as the tabtrigger:
+
+<img width="481" alt="ad" src="https://cloud.githubusercontent.com/assets/20023147/26208059/89a91e66-3bbf-11e7-946c-5b39ebb77cb2.png">
+
+
+
+## Plugin Number Six:
+
+*Inc-Dec-Value
+
+## see example
+![0d81ce376f1f7be21a06effe832b8fcb5f111397](https://cloud.githubusercontent.com/assets/20023147/26208329/2e04bee8-3bc0-11e7-96ab-117bfbebbb8c.gif)
+
+![60476a3b779ae610f0eb167b4e40b30254a1ec03](https://cloud.githubusercontent.com/assets/20023147/26208375/48fd508e-3bc0-11e7-98fd-f45aa7a7fb49.gif)
+
+# click here for information
+https://packagecontrol.io/packages/Inc-Dec-Value
+
+
+## Plugin Number Seven:
+
+*HTML Nest Comments
+
+## see example
+![f](https://cloud.githubusercontent.com/assets/20023147/26208503/a52e2608-3bc0-11e7-93fd-b32f4c85f39a.gif)
+
+
+## Plugin Number Eight:
+
+*Grunt
+
+## see example
+![grunt](https://cloud.githubusercontent.com/assets/20023147/26208902/ab3b0768-3bc1-11e7-8941-1bcd80d88091.gif)
+
+# click here for information
+https://github.com/tvooo/sublime-grunt/
+
+
+## Plugin Number Nine:
+
+*Color Highlighter
+
+
+## see example
+
+![cc](https://cloud.githubusercontent.com/assets/20023147/26209106/4788fb70-3bc2-11e7-98f1-858c95b91c26.png)
+![ccc](https://cloud.githubusercontent.com/assets/20023147/26209119/510d89cc-3bc2-11e7-85b4-27b501c2593a.gif)
+
+# click here for information
+https://github.com/Monnoroch/ColorHighlighter
