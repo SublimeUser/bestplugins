@@ -39,8 +39,8 @@ https://packagecontrol.io/packages/Seti_UI
 ## Plugin Number TWO:
 
 * StyleToken
-## see example:
 
+## see example:
 ![1](https://cloud.githubusercontent.com/assets/20023147/26205389/f702bcd6-3bb7-11e7-9955-a162e0168502.png)
 ![2](https://cloud.githubusercontent.com/assets/20023147/26205436/18256094-3bb8-11e7-8964-d84160833c43.png)
 ![3](https://cloud.githubusercontent.com/assets/20023147/26205441/1f8beb82-3bb8-11e7-9799-4815416dfe3b.png)
@@ -48,3 +48,14 @@ https://packagecontrol.io/packages/Seti_UI
 
 # click here for information
 https://packagecontrol.io/packages/StyleToken
+
+
+## Plugin Number Three:
+
+*SideBarEnhancements
+
+## see example
+![sidebar](https://cloud.githubusercontent.com/assets/20023147/26205854/634fa308-3bb9-11e7-824b-8d4da57dffc7.png)
+
+# click here for information
+https://packagecontrol.io/packages/SideBarEnhancements
