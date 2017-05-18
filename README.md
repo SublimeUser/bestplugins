@@ -126,3 +126,48 @@ https://github.com/tvooo/sublime-grunt/
 
 # click here for information
 https://github.com/Monnoroch/ColorHighlighter
+
+
+## Plugin Number Ten:
+
+*BracketHighlighter
+
+## see example
+
+![eeee](https://cloud.githubusercontent.com/assets/20023147/26209317/d7fd467a-3bc2-11e7-913d-c3b405ea01ba.png)
+
+# click here for information
+http://facelessuser.github.io/BracketHighlighter/
+
+
+
+## Plugin Number Eleven:
+
+*AutoFileName
+
+## see example
+![fff](https://cloud.githubusercontent.com/assets/20023147/26209449/38fcfb28-3bc3-11e7-853c-951c847d735d.gif)
+
+
+## Plugin Number twelve:
+
+*AlignTab
+
+## see example
+![align](https://cloud.githubusercontent.com/assets/20023147/26209621/b2763af0-3bc3-11e7-9b7b-b1bf5e7e752d.png)
+
+![61debb15bc785505cf7df939edf2cf6c6b77c00b](https://cloud.githubusercontent.com/assets/20023147/26209646/c1a9dc8e-3bc3-11e7-82b4-5f2611579cc5.gif)
+
+# click here for information
+
+https://packagecontrol.io/packages/AlignTab
+
+
+## Plugin Number thirteen:
+
+*Emmet
+
+# click here for information
+https://docs.emmet.io/
+https://emmet.io/
+
