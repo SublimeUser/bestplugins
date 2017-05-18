@@ -31,4 +31,20 @@ This code creates the Packages folder that is installed for you.
 
 ![set_ui](https://cloud.githubusercontent.com/assets/20023147/25930577/658ff898-35dd-11e7-927b-231bdd8d7380.png)
 
+# click here for information
+https://packagecontrol.io/packages/Seti_UI
 
+
+
+## Plugin Number TWO:
+
+* StyleToken
+## see example:
+
+![1](https://cloud.githubusercontent.com/assets/20023147/26205389/f702bcd6-3bb7-11e7-9955-a162e0168502.png)
+![2](https://cloud.githubusercontent.com/assets/20023147/26205436/18256094-3bb8-11e7-8964-d84160833c43.png)
+![3](https://cloud.githubusercontent.com/assets/20023147/26205441/1f8beb82-3bb8-11e7-9799-4815416dfe3b.png)
+
+
+# click here for information
+https://packagecontrol.io/packages/StyleToken
